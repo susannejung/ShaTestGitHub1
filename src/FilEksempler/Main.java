@@ -17,6 +17,7 @@ public class Main {
 	     System.out.print("Test 1");
         System.out.print("Test 2");
         System.out.print("Test 3");
+        System.out.print("Test 4");
 
     }
 }
