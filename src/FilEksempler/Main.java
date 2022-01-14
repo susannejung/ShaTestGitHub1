@@ -13,5 +13,6 @@ public class Main {
 	     System.out.print("5. udgave HEJsa");
         System.out.print("5. udgave HEJsa Hejsa");
 	    System.out.print("5. udgave HEJsa Hejsa Hejsa");
+	    System.out.print("Test ");
     }
 }
